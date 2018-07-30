@@ -5,6 +5,7 @@
         public string FirstName;
         public string LastName;
         public int Age;
+        public string Language;
 
         public Human() { }
 
